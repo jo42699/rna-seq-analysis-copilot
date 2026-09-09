@@ -1,0 +1,12 @@
+.env*
+.gtf*
+*.gtf
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+
+
+
+backend/app/data/Homo_sapiens.GRCh38.116.gtf
