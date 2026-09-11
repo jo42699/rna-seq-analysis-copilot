@@ -8,15 +8,15 @@ An interactive application for exploring and interpreting **RNA-seq differential
 
 ### Dashboard
 
-![RNA-seq Analysis Copilot Dashboard](images/Screenshot(52).png)
+![RNA-seq Analysis Copilot Dashboard](images/Screenshot_(52).png)
 
 ### View workflow in YAML
 
-![Differential Expression Results](images/Screenshot(54).png)
+![Differential Expression Results](images/Screenshot_(54).png)
 
 ### Conversational Analysis
 
-![Chat Interface](images/Screenshot(55).png)
+![Chat Interface](images/Screenshot_(55).png)
 
 
 
