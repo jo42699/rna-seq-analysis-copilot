@@ -1,5 +1,4 @@
-
-# sources for data  just download frpm URL
+# sources for data  just download from URL
 
 ## Global effects of SUPT4H1 RNAi on gene expression of HEK293 cells
 # https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116267
@@ -18,7 +17,7 @@
 https://ftp.ensembl.org/pub/release-116/gtf/homo_sapiens/
 
 
-
+# how to run 
 
 # run python 
 cd to backend and create a (venv) env 

@@ -238,7 +238,7 @@ export function LollipopPlot({
     }
 
     /*
-     * Make sure zero is visible.
+     * to Make sure zero is visible.
      */
     if (
       minLog2FC <= 0 &&
