@@ -137,12 +137,12 @@ Open the local URL provided by Next.js in your browser.
 
 The conversational analysis features require an OpenAI API key.
 
-Create an environment variable containing **your own API key**.
+Create an environment variable containing **your own API key dont be greedy**.
 
 For example:
 
 ```env
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=sk_blah_black_black sheep
 ```
 
 > ⚠️ **Do not commit your API key to GitHub.**
