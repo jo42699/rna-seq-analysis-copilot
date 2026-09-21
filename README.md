@@ -142,7 +142,7 @@ Create an environment variable containing **your own API key dont be greedy**.
 For example:
 
 ```env
-OPENAI_API_KEY=sk_blah_black_black sheep
+OPENAI_API_KEY=sk_blah_black_black_sheep
 ```
 
 > ⚠️ **Do not commit your API key to GitHub.**
