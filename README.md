@@ -195,3 +195,6 @@ The application is intended for research, educational, and exploratory purposes 
 ## 🧬 Project
 
 **RNA-seq Analysis Copilot**
+
+
+
