@@ -196,9 +196,3 @@ The application is intended for research, educational, and exploratory purposes 
 
 **RNA-seq Analysis Copilot**
 
-
-
-
-
-
-
