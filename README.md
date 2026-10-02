@@ -117,7 +117,7 @@ Open a new terminal and navigate to the frontend:
 cd frontend
 ```
 
-Install the Node.js dependencies:
+Install the Node.js dependencies  :
 
 ```bash
 npm install
