@@ -182,6 +182,7 @@ def main():
     
    
     #REPORT AGENT 
+    # report agent aggregates all the outputs from previous agents and generates a comprehensive report.
    
     report = run_report_agent(
         summary=summary,
@@ -199,6 +200,8 @@ def main():
         pathway_ascii=plot_data["pathway_ascii"],
         pathway_network=pathway_output["network"]
     )
+
+
 
     print("\n=== FULL JSON REPORT ===")
     print(json.dumps(report, indent=4))
