@@ -19,8 +19,6 @@ from app.agents.literature_agent import run_literature_agent
 from app.pipeline import run_pipeline
 
 
-
-
 #routes
 from app.api.report import router as report_router
 from app.api.stats import router as stats_router
@@ -65,7 +63,7 @@ app.include_router(websocket_router)
 def main():
 
     # ASCII title
-    slant_art = pyfiglet.figlet_format("OCTAVIUS", font="slant")
+    slant_art = pyfiglet.figlet_format("ARENA", font="slant")
     print(slant_art)
     print("Running Multi-Agent Bioinformatics Pipeline...\n")
 
@@ -243,7 +241,6 @@ if __name__ == "__main__":
 
 # Dataset:
 # C9orf72-amyotrophic lateral sclerosis
-
 
 
 
